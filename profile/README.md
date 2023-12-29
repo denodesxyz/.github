@@ -1,4 +1,4 @@
-## **Welcome to the [deNodes GitHub](https://github.com/denodesxyz)!**
+## **Welcome to the deNodes GitHub**
 
 deNodes is a proven blockchain validator and infra-service provider. With a solid commitment to supporting the growth of early-stage blockchain and web3 startups, we provide a comprehensive range of services that includes technical support, validation services and strategic consultation. 
 
